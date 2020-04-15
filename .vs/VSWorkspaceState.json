@@ -1,13 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Fiap.Green.Startup",
     "\\Fiap.Green.Startup.Api",
     "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api",
-    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Controllers",
     "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain",
-    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Models",
-    "\\Fiap.Green.Startup\\Properties"
+    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Entities",
+    "\\Fiap.Green.Startup\\Models",
+    "\\Fiap.Green.Startup\\Properties",
+    "\\Fiap.Green.Startup\\Repository\\Context"
   ],
-  "SelectedNode": "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Models\\Compra.cs",
+  "SelectedNode": "\\Fiap.Green.Startup\\Comandos.cl",
   "PreviewInSolutionExplorer": false
 }
