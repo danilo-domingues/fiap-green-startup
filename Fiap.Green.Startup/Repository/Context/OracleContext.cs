@@ -13,7 +13,7 @@ namespace Fiap.Green.Startup.Repository.Context
 
 
 private readonly IConfiguration _configuration;
-
+        
 public OracleContext()
 {
     

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fiap.Green.Startup.Api",
+    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api",
+    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Controllers",
+    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain",
+    "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Models",
+    "\\Fiap.Green.Startup\\Properties"
+  ],
+  "SelectedNode": "\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Models\\Compra.cs",
+  "PreviewInSolutionExplorer": false
+}

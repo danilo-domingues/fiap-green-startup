@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\Source\\Repos\\danilo-domingues\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj": {}
+    "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\Source\\Repos\\danilo-domingues\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj": {
+    "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Source\\Repos\\danilo-domingues\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
+        "projectUniqueName": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
         "projectName": "Fiap.Green.Startup.Api",
-        "projectPath": "C:\\Users\\guilh\\Source\\Repos\\danilo-domingues\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
+        "projectPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\Source\\Repos\\danilo-domingues\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\obj\\",
+        "outputPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.60, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
